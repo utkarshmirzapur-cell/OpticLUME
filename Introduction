@@ -1,0 +1,18 @@
+## About OpticLUME
+
+OpticLUME is a native Python optical engineering platform developed as an independent R&D project.
+
+It combines simulation, optical design, computational photonics, diffractive optics, waveguide analysis, and research utilities into a unified desktop application.
+
+The project is built with a strong focus on modular software architecture, scientific validation, and long-term extensibility.
+
+Current development emphasizes:
+
+- Optical Simulation
+- Computational Photonics
+- Diffractive Optics
+- Waveguide Engineering
+- Meta-Optics
+- Research Automation
+
+The repository primarily documents project evolution and public-facing development while keeping proprietary implementation details private.
