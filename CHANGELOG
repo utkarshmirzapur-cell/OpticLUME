@@ -1,0 +1,51 @@
+# Changelog
+
+## v0.7.0 — Platform
+- Expanded platform with new optical engineering modules
+- Introduced reusable scientific libraries
+- Improved simulation workflow
+- Added advanced photonics capabilities
+- Overall stability improvements
+
+---
+
+## v0.6.0 — Publication Grade
+- Major physics engine improvements
+- Enhanced CAD workflow
+- Improved material modeling
+- Better simulation accuracy
+- UI and usability enhancements
+
+---
+
+## v0.5.1 — Benchmark Library
+- Added benchmark project collection
+- Improved educational workflow
+- Extended simulation examples
+
+---
+
+## v0.5.0 — Research Ready
+- Introduced optimization workflow
+- Added parameter sweep engine
+- Project versioning
+- Autosave
+- Background simulation queue
+
+---
+
+## v0.2.0 – v0.4.0 — Photonic Device Workbench
+- Native photonic device environment
+- Interactive editor
+- RCWA integration
+- New optical design tools
+
+---
+
+## v0.1.0 — Initial Release
+- Desktop framework
+- Material database
+- Fourier optics
+- Holography
+- Thin-film simulation
+- Initial optical design toolkit
