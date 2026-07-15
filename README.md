@@ -19,6 +19,19 @@ Rather than focusing on one simulation technique, OpticLUME combines several opt
 
 ---
 
+## Showcase
+
+<p align="center">
+  <img src="media/ring_resonator/ring_resonator_showcase.gif" alt="2D FDTD simulation: a guided pulse coupling into an all-pass ring resonator at resonance" width="560">
+</p>
+
+<p align="center">
+  <em>Native 2D FDTD — a bus waveguide coupling into a ring resonator at resonance.<br>
+  See <a href="media/ring_resonator/FEATURE.md">media/ring_resonator/FEATURE.md</a> for details.</em>
+</p>
+
+---
+
 ## Current Capabilities
 
 - Optical Material Database
